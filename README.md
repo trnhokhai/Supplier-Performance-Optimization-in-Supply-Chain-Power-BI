@@ -1,6 +1,6 @@
 # Supplier Performance Optimization in Supply Chain | Power BI
 
-![background]([https://github.com/trnhokhai/Supplier-Performance-Optimization-in-Supply-Chain-Power-BI/blob/0b391b5d7fccd8c8e6243dfca1ee89448342f3f7/background.png](https://github.com/trnhokhai/Supplier-Performance-Optimization-in-Supply-Chain-Power-BI/blob/2c4db5315c89b2d5b3a9f98bc11fb24fc91c3f94/background.webp))
+![background](https://github.com/trnhokhai/Supplier-Performance-Optimization-in-Supply-Chain-Power-BI/blob/31e15f0fe4da50e70b04d54a4da81889d4f7077d/background.webp)
 ---
 
 ## 📑 Table of Contents
