@@ -145,8 +145,6 @@ The biggest improvement opportunity is to:
 | 4️⃣ | **Shift Focus from Delivery to Defect Reduction** | - Maintain current delivery standards (already near 100%)<br>- Redirect improvement efforts toward reducing reject rates | - Higher ROI from improvement initiatives<br>- Stronger long-term cost efficiency<br>- Improved supply chain reliability |
 | 5️⃣ | **Monitor Performance During Spend Growth** | - Track SRI volatility during high PO periods<br>- Review supplier capacity before increasing volume | - Prevent performance breakdown during rapid scale<br>- Ensure sustainable procurement growth<br>- Maintain reliability while expanding operations |
 
-## 🔄 Next Improvements
-
 ## 🚀 Next Steps & Improvements
 
 - **Quantify the financial impact of defects**  
