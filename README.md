@@ -2,13 +2,16 @@
 
 ---
 
-## 📑 Table of Contents  
-1. [📌 Background & Overview](#-background--overview)  
-2. 📌 Data Source
-3. Data Modeling 
-4. [🧠 Design Thinking Process](#-design-thinking-process)  
-5. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
-6. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+## 📑 Table of Contents
+
+- [📌 Background & Overview](#-background--overview)
+- [📌 Data Source](#-data-source)
+- [🧩 Data Modeling](#-data-modeling)
+- [🧠 Design Thinking Process](#-design-thinking-process)
+- [📊 Key Insights & Visualizations](#-key-insights--visualizations)
+- [🚀 Business Recommendations](#-business-recommendations)
+- [🔄 Next Steps & Improvements](#-next-steps--improvements)
+
 
 ## 📌 Background & Overview  
 ### Objective: To evaluate supplier performance based on delivery reliability, product quality, and cost efficiency in order to prioritize vendors and reduce operational risk.
