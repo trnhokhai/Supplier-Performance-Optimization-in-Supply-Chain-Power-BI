@@ -1,4 +1,4 @@
-# Supplier Performance Optimization in Supply Chain | Power BI
+# Supplier Performance Analysis in Supply Chain | Power BI
 
 ![background](https://github.com/trnhokhai/Supplier-Performance-Optimization-in-Supply-Chain-Power-BI/blob/31e15f0fe4da50e70b04d54a4da81889d4f7077d/background.webp)
 ---
