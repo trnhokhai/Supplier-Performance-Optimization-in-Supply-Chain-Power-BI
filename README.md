@@ -76,7 +76,9 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 | Spend concentration creates category and supplier dependency risk | ~77% of spend is in Components, with a large share concentrated among top suppliers |
 | Lower-rated suppliers show improvement but may still pose risk | Higher SRI improvement among lower credit suppliers suggests recovery, but also indicates prior performance issues |
 
-#### 🤝 Supplier
+---
+
+### 🤝 Supplier
 
 <img width="1427" height="792" alt="image" src="https://github.com/user-attachments/assets/8f1da7df-032b-440f-9849-ce316242f351" />
 
