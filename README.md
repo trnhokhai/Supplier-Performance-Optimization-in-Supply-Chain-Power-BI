@@ -75,7 +75,8 @@ It helps them decide:
 ### 🔍 Dashboard Preview
 #### 📋 Executive Summary
 
-<img width="1452" height="818" alt="image" src="https://github.com/user-attachments/assets/754df06a-9c0f-4b21-b983-9b5bd009ed58" />
+<img width="1520" height="850" alt="image" src="https://github.com/user-attachments/assets/d1008eba-e3da-4d69-915d-6e2feb2a25b8" />
+
 
 | # | Key Insight | Supporting Evidence | What This Means for the Business |
 |---|------------|--------------------|---------------------------------|
@@ -94,7 +95,8 @@ The primary opportunity is not improving delivery speed—it is reducing defects
 
 #### 🤝 Supplier
 
-<img width="1453" height="813" alt="image" src="https://github.com/user-attachments/assets/b9316af2-e837-46f7-a66a-be56216a93eb" />
+<img width="1521" height="848" alt="image" src="https://github.com/user-attachments/assets/a3e58e38-7125-450e-a343-8936ab78b988" />
+
 
 | # | Key Insight | Supporting Evidence | What This Means for the Business |
 |---|------------|--------------------|---------------------------------|
@@ -116,7 +118,8 @@ The main opportunity is to:
 
 #### Product 
 
-<img width="1452" height="812" alt="image" src="https://github.com/user-attachments/assets/79bcbde5-7a3c-4464-94ec-5aaf4ab02070" />
+<img width="1520" height="850" alt="image" src="https://github.com/user-attachments/assets/6e46115c-972d-4a8c-93f0-e1e3659718f4" />
+
 
 | # | Key Insight | Supporting Evidence | What This Means for the Business |
 |---|------------|--------------------|---------------------------------|
