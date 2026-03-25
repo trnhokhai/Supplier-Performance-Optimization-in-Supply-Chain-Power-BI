@@ -18,7 +18,8 @@
 
 AdventureWorks is a bicycle manufacturing company that relies on a global supplier network for components and materials. As procurement spend increases, ensuring supplier performance becomes critical to maintaining product quality, delivery reliability, and cost control.
 
-###Objective:### Evaluate supplier performance across delivery, quality, and cost to identify which suppliers to prioritize, where risks are concentrated, and how to scale procurement without increasing operational risk.
+### Objective:
+Evaluate supplier performance across delivery, quality, and cost to identify which suppliers to prioritize, where risks are concentrated, and how to scale procurement without increasing operational risk.
 
 
 ### 👤 Stakeholders
