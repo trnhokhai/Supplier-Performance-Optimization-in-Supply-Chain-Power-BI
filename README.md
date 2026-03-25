@@ -65,7 +65,7 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 <img width="1426" height="795" alt="image" src="https://github.com/user-attachments/assets/dcf0e4fc-bf8f-4210-aefc-a07f312e2175" />
 
 
-#### 📊 Key Insights
+#### 📊 Key Insights - Overview
 
 | Insight | Details |
 |--------|--------|
