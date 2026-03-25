@@ -15,42 +15,29 @@
 
 
 ## 📌 Background & Overview  
-### Objective: To evaluate supplier performance based on delivery reliability, product quality, and cost efficiency in order to prioritize vendors and reduce operational risk.
-### 📖 What is this project about?
 
-This project analyzes supplier performance using real procurement data from **AdventureWorks**.
+AdventureWorks is a bicycle manufacturing company that relies on a global supplier network for components and materials. As procurement spend increases, ensuring supplier performance becomes critical to maintaining product quality, delivery reliability, and cost control.
 
-As purchasing volume grows, companies need to ensure their suppliers can keep up—without causing delays, defects, or hidden costs.
+###Objective:### Evaluate supplier performance across delivery, quality, and cost to identify which suppliers to prioritize, where risks are concentrated, and how to scale procurement without increasing operational risk.
 
-Through this dashboard, I examined:
+---
 
-- Who delivers on time consistently  
-- Which suppliers have higher defect rates  
-- Where procurement spend is concentrated  
-- Whether cost savings come with quality trade-offs  
+### 👤 Stakeholders
 
-The goal is to turn supplier data into clear, practical actions that help the business allocate spend more wisely.
+* Procurement Managers
+* Supply Chain Managers
+* Operations Leaders
 
-### 👤 Who is this project for?  
+---
 
-- Procurement Managers  
-- Supply Chain Managers  
-- Operations Leaders  
+### ❓ Key Business Questions
 
-It helps them decide:
+* Which suppliers should we prioritize as spend increases?
+* Are we over-dependent on a small group of suppliers?
+* Where is quality risk concentrated?
+* Are cost changes (PPV%) aligned with performance?
+* How can we scale procurement without increasing risk?
 
-- Which suppliers deserve more volume  
-- Which suppliers require closer monitoring  
-- Where quality risk is concentrated  
-- How to scale purchasing without increasing risk
-
-### Business Question ?
-
-- Which suppliers should we prioritize as spend increases?  
-- Are we over-dependent on certain vendors?  
-- Where is quality risk concentrated?  
-- Are cost savings worth the potential defect risk?  
-- How can we grow procurement volume without hurting reliability?
 
 ## 📌 Data Source
 
