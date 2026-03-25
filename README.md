@@ -20,7 +20,6 @@ AdventureWorks is a bicycle manufacturing company that relies on a global suppli
 
 ###Objective:### Evaluate supplier performance across delivery, quality, and cost to identify which suppliers to prioritize, where risks are concentrated, and how to scale procurement without increasing operational risk.
 
----
 
 ### 👤 Stakeholders
 
@@ -28,7 +27,6 @@ AdventureWorks is a bicycle manufacturing company that relies on a global suppli
 * Supply Chain Managers
 * Operations Leaders
 
----
 
 ### ❓ Key Business Questions
 
@@ -38,6 +36,7 @@ AdventureWorks is a bicycle manufacturing company that relies on a global suppli
 * Are cost changes (PPV%) aligned with performance?
 * How can we scale procurement without increasing risk?
 
+---
 
 ## 📌 Data Source
 
