@@ -59,27 +59,22 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 4️⃣ Prototype and review
 
 ## 📊 Key Insights & Visualizations
-### 🔍 Dashboard Preview
-#### 📋 Executive Summary
+### 🔍 Overview
+
 
 <img width="1426" height="795" alt="image" src="https://github.com/user-attachments/assets/dcf0e4fc-bf8f-4210-aefc-a07f312e2175" />
 
 
+#### 📊 Key Insights
 
-| # | Key Insight | Supporting Evidence | What This Means for the Business |
-|---|------------|--------------------|---------------------------------|
-| 1️⃣ | **Overall Supplier Reliability Is Strong and Stable** | - Supplier Reliability Index (SRI): **97.3%**, slightly improving YoY<br>- On-Time Delivery: **99.92%**<br>- Reject Rate improved from **4.7% → 3.12%** | The supplier base is operationally stable. Delivery performance is not the main issue, and quality control has strengthened over time. |
-| 2️⃣ | **Spend Has Grown Rapidly — Risk Must Be Managed** | - Total procurement spend increased from **$24.4M → $63.8M (+161%)**<br>- Performance metrics improved only marginally | The company is scaling fast. As volume grows, supplier risk exposure increases. Strong performance today does not guarantee stability under future growth. |
-| 3️⃣ | **Performance Dip During High Volume Periods** | - SRI dropped in early **2013** when PO volume spiked<br>- Performance later stabilized above **97%** | Rapid increases in purchasing volume can stress suppliers. Performance should be closely monitored during growth phases to prevent breakdowns. |
-| 4️⃣ | **Spend Is Highly Concentrated in Components** | - Components account for the majority of procurement spend<br>- Accessories and Clothing represent much smaller shares | Risk is concentrated in a single major category. Any disruption or quality issue in Components would have a significant financial impact. |
-| 5️⃣ | **Quality Is the Real Differentiator — Not Delivery** | - On-Time % remains consistently high across suppliers<br>- Reject % varies noticeably over time | Delivery performance is under control. The biggest opportunity lies in reducing defect rates, especially in high-spend categories. |
-| 6️⃣ | **High- Spend Vendors Are Not Always the Best Performers** | - Some high-spend suppliers have similar or lower SRI than mid-tier vendors<br>- Spend allocation does not fully align with performance | There is an opportunity to reallocate volume toward higher-performing suppliers to reduce operational and quality risk. |
-
-**🎯 Executive Takeaway**
-
-The supplier network is reliable and scalable, but rapid spend growth and category concentration increase exposure to quality risk.
-
-The primary opportunity is not improving delivery speed—it is reducing defects and optimizing spend allocation toward high-performing suppliers.
+| Insight | Details |
+|--------|--------|
+| Overall performance is strong, but not fully stable | SRI (97.3%) and On-Time (99.9%) are high, but reliability fluctuates over time, especially as volume increases |
+| Rapid spend growth increases exposure to supplier risk | Spend grew +161% YoY, significantly increasing dependency on suppliers and amplifying the impact of any performance issues |
+| Cost efficiency is deteriorating as procurement scales | PPV% has increased, indicating rising costs despite stable delivery performance |
+| Quality is improving, but remains inconsistent | Reject rate decreased, but past volatility suggests quality is not fully under control |
+| Spend concentration creates category and supplier dependency risk | ~77% of spend is in Components, with a large share concentrated among top suppliers |
+| Lower-rated suppliers show improvement but may still pose risk | Higher SRI improvement among lower credit suppliers suggests recovery, but also indicates prior performance issues |
 
 #### 🤝 Supplier
 
