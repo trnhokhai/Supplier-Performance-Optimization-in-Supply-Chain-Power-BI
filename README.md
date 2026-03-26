@@ -100,25 +100,15 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 
 <img width="1427" height="797" alt="image" src="https://github.com/user-attachments/assets/9e2c58f3-7563-4c8a-8286-39ad58f757ce" />
 
+## 📊 Key Insights
 
-
-| # | Key Insight | Supporting Evidence | What This Means for the Business |
-|---|------------|--------------------|---------------------------------|
-| 1️⃣ | **Components Drive the Majority of Procurement Spend** | - Components account for **~$26M+** of total spend<br>- Accessories follow, Clothing is minimal<br>- Spend growth is mainly driven by Components | Procurement risk is heavily concentrated in Components. Any quality or supplier issue in this category would have significant financial and operational impact. |
-| 2️⃣ | **Quality Risk Is Higher in High-Value Categories** | - Components reject rate: **~3.49%**<br>- Accessories reject rate: **~2.49%**<br>- Clothing has very low reject rate but low spend | The highest-spend category also carries the highest quality risk. Even small defect reductions in Components can deliver meaningful cost savings. |
-| 3️⃣ | **Delivery Performance Is Consistent Across Categories** | - On-Time % near **100%** for Components and Accessories<br>- Lead time stable at **~9 days** | Delivery is not the primary issue at the category level. The bigger opportunity lies in reducing defect rates rather than improving speed. |
-| 4️⃣ | **Cost Savings Do Not Clearly Offset Quality Risk** | - PPV% is relatively consistent across categories (**~5%**)<br>- No clear link between higher PPV and lower reject rates | Marginal price advantages should not outweigh quality considerations. Long-term efficiency depends more on defect reduction than small cost savings. |
-| 5️⃣ | **Product-Level Variation Exists Within Strong Categories** | - Certain Component products show higher reject concentration<br>- Some high-spend products have slightly lower SRI | Category-level stability can hide product-level quality risk. Targeted product-level monitoring would improve control and risk management. |
-
-**🎯 Executive Takeaway**
-
-Procurement risk is not evenly distributed—it is concentrated in the **Components** category, which drives the majority of spend and carries higher reject rates.
-
-The biggest improvement opportunity is to:
-
-- Focus quality improvement efforts on high-spend categories  
-- Monitor product-level defect concentration  
-- Align spend growth with quality stability
+| Insight | Details |
+|--------|--------|
+| Spend is heavily concentrated in Components, driving overall risk exposure | Components account for ~77% of total spend, making this category the primary driver of procurement risk |
+| Higher spend categories also show higher quality risk | Components have a higher reject rate compared to other categories, indicating that the largest spend area is also the most vulnerable |
+| Reject rate increases with higher-value items within categories | The risk distribution shows that higher-spend products tend to have higher reject rates, amplifying the impact of defects on total cost |
+| Lead time expectations are not aligned with actual performance | Differences between expected and actual lead time suggest inefficiencies in supplier planning, especially in higher-risk categories |
+| Risk is concentrated in specific subcategories rather than evenly distributed | Only a subset of products drives most of the reject and delay issues, indicating targeted intervention opportunities rather than broad supplier changes |
 
 ## 🚀 Business Recommendations  
 
