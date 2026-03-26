@@ -102,23 +102,28 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 
 ## 📊 Key Insights
 
+## 📊 Key Insights
+
 | Insight | Details |
 |--------|--------|
-| Spend is heavily concentrated in Components, driving overall risk exposure | Components account for ~77% of total spend, making this category the primary driver of procurement risk |
-| Higher spend categories also show higher quality risk | Components have a higher reject rate compared to other categories, indicating that the largest spend area is also the most vulnerable |
-| Reject rate increases with higher-value items within categories | The risk distribution shows that higher-spend products tend to have higher reject rates, amplifying the impact of defects on total cost |
-| Lead time expectations are not aligned with actual performance | Differences between expected and actual lead time suggest inefficiencies in supplier planning, especially in higher-risk categories |
-| Risk is concentrated in specific subcategories rather than evenly distributed | Only a subset of products drives most of the reject and delay issues, indicating targeted intervention opportunities rather than broad supplier changes |
+| Spend is heavily concentrated in Components, driving overall risk exposure | Components account for ~77% of total spend, making this category the primary source of procurement risk |
+| Higher spend categories also show higher quality risk | Components have a higher reject rate, indicating that the largest spend area is also the most vulnerable |
+| Higher-value products amplify the impact of defects | Products with higher spend tend to have higher reject rates, increasing the financial impact of quality issues |
+| Risk is concentrated in specific subcategories rather than evenly distributed | A small number of subcategories drive most of the quality issues, suggesting targeted improvement opportunities |
 
-## 🚀 Business Recommendations  
+---
 
-| # | Recommendation | Key Actions | Business Impact |
-|---|----------------|-------------|-----------------|
-| 1️⃣ | **Reallocate Spend Toward High-Quality Suppliers** | - Increase volume to suppliers with **reject rate < 3.12%** and **SRI ≥ 97%**<br>- Gradually reduce exposure to high-spend suppliers with reject rates **> 4–5%** | - Lower defect-related rework and inspection costs<br>- Improve operational stability<br>- Reduce quality-driven disruption risk |
-| 2️⃣ | **Strengthen Quality Control in the Components Category** | - Set stricter reject thresholds for Components suppliers<br>- Conduct targeted reviews for high-reject vendors<br>- Monitor product-level defects within high-spend SKUs | - Reduce financial exposure in the highest-spend category<br>- Improve margin protection<br>- Prevent small quality issues from scaling |
-| 3️⃣ | **Segment Suppliers by Performance Tier** | - Classify suppliers as **Strategic**, **Monitor**, or **At-Risk** based on SRI, reject rate, and spend exposure<br>- Use segmentation to guide contracts and volume allocation | - Clear vendor prioritization framework<br>- More structured sourcing decisions<br>- Better risk management |
-| 4️⃣ | **Shift Focus from Delivery to Defect Reduction** | - Maintain current delivery standards (already near 100%)<br>- Redirect improvement efforts toward reducing reject rates | - Higher ROI from improvement initiatives<br>- Stronger long-term cost efficiency<br>- Improved supply chain reliability |
-| 5️⃣ | **Monitor Performance During Spend Growth** | - Track SRI volatility during high PO periods<br>- Review supplier capacity before increasing volume | - Prevent performance breakdown during rapid scale<br>- Ensure sustainable procurement growth<br>- Maintain reliability while expanding operations |
+## 🚀 Business Recommendations & Impacts
+
+## 🚀 Recommendations & Business Impact
+
+| Recommendation | Action | Business Impact |
+|---------------|--------|-----------------|
+| Prioritize high-performing suppliers for critical categories | Shift more volume to suppliers with low reject rates and stable performance, especially within Components | Reduces quality risk and ensures stable supply as procurement scales |
+| Actively manage high-spend, high-risk suppliers | Implement performance reviews and corrective action plans for suppliers with high spend and high reject rates (e.g., Superior Bicycles) | Prevents defects from high-impact suppliers and reduces potential operational disruptions |
+| Reduce dependency on a small group of suppliers | Diversify sourcing for key categories to avoid over-reliance on a limited number of vendors | Improves supply chain resilience and reduces risk from supplier-specific failures |
+| Focus quality improvement efforts on high-impact products and subcategories | Target subcategories with higher reject rates instead of applying broad supplier-wide changes | Maximizes efficiency by addressing the root causes of defects where they matter most |
+| Re-evaluate cost increases against supplier performance | Investigate suppliers with rising PPV% to determine whether higher costs are justified by performance improvements | Ensures cost increases do not come at the expense of value or efficiency |
 
 ## 🚀 Next Steps & Improvements
 
