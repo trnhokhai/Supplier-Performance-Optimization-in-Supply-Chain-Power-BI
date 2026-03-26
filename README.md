@@ -3,6 +3,15 @@
 ![background](https://github.com/trnhokhai/Supplier-Performance-Optimization-in-Supply-Chain-Power-BI/blob/31e15f0fe4da50e70b04d54a4da81889d4f7077d/background.webp)
 ---
 
+## Executive Summary
+
+Supplier performance appears strong at a high level (97% SRI, ~100% On-Time), but deeper analysis reveals that risk is concentrated in a small group of high-spend suppliers and within the Components category, which accounts for the majority of procurement spend.
+
+As procurement volume scales (+161% YoY), cost efficiency is deteriorating (PPV% ↑) while quality issues remain present, indicating early signs of scaling inefficiency.
+
+A targeted approach—shifting volume away from high-risk suppliers, auditing defect-driving vendors, and diversifying sourcing in critical categories—can significantly reduce operational risk and improve procurement efficiency without broad structural changes.
+
+
 ## 📑 Table of Contents
 
 - [📌 Background & Overview](#-background--overview)
@@ -116,11 +125,11 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 
 | Recommendation | Action | Business Impact |
 |---------------|--------|-----------------|
-| Prioritize high-performing suppliers for critical categories | Shift more volume to suppliers with low reject rates and stable performance, especially within Components | Reduces quality risk and ensures stable supply as procurement scales |
-| Actively manage high-spend, high-risk suppliers | Implement performance reviews and corrective action plans for suppliers with high spend and high reject rates (e.g., Superior Bicycles) | Prevents defects from high-impact suppliers and reduces potential operational disruptions |
-| Reduce dependency on a small group of suppliers | Diversify sourcing for key categories to avoid over-reliance on a limited number of vendors | Improves supply chain resilience and reduces risk from supplier-specific failures |
-| Focus quality improvement efforts on high-impact products and subcategories | Target subcategories with higher reject rates instead of applying broad supplier-wide changes | Maximizes efficiency by addressing the root causes of defects where they matter most |
-| Re-evaluate cost increases against supplier performance | Investigate suppliers with rising PPV% to determine whether higher costs are justified by performance improvements | Ensures cost increases do not come at the expense of value or efficiency |
+| Reallocate volume away from high-risk suppliers | Reduce 10–20% volume from high-spend, high-reject suppliers (e.g., Superior Bicycles) and shift to higher-performing alternatives | Reduces defect exposure and minimizes operational disruption from critical suppliers |
+| Initiate immediate audit for top defect-driving suppliers | Prioritize the top suppliers contributing the highest reject rates for quality audits and corrective action plans | Addresses root causes of defects and prevents recurring quality issues at scale |
+| Secure long-term agreements with high-performing suppliers | Increase commitment to suppliers with high SRI and low reject rates through contracts or preferred supplier status | Stabilizes supply and ensures reliable performance as procurement volume grows |
+| Diversify sourcing within high-spend categories (Components) | Introduce additional qualified suppliers to reduce reliance on a small group of vendors | Improves supply chain resilience and reduces dependency risk in critical categories |
+| Reassess suppliers with rising PPV% before further scaling | Evaluate whether cost increases are justified by performance; limit expansion with suppliers showing both rising cost and quality issues | Prevents cost escalation without corresponding value improvement |
 
 --- 
 
