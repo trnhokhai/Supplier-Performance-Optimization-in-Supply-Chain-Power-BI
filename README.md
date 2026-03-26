@@ -115,8 +115,6 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 
 ## 🚀 Business Recommendations & Impacts
 
-## 🚀 Recommendations & Business Impact
-
 | Recommendation | Action | Business Impact |
 |---------------|--------|-----------------|
 | Prioritize high-performing suppliers for critical categories | Shift more volume to suppliers with low reject rates and stable performance, especially within Components | Reduces quality risk and ensures stable supply as procurement scales |
@@ -125,19 +123,23 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 | Focus quality improvement efforts on high-impact products and subcategories | Target subcategories with higher reject rates instead of applying broad supplier-wide changes | Maximizes efficiency by addressing the root causes of defects where they matter most |
 | Re-evaluate cost increases against supplier performance | Investigate suppliers with rising PPV% to determine whether higher costs are justified by performance improvements | Ensures cost increases do not come at the expense of value or efficiency |
 
+--- 
+
 ## 🚀 Next Steps & Improvements
 
-- **Quantify the financial impact of defects**  
-  Convert reject rates into estimated costs of rework, returns, and production delays to better prioritize high-risk suppliers.
 
-- **Develop a composite supplier score**  
-  Combine quality, delivery, cost (PPV), and spend concentration into a single weighted score to enable clearer and more objective vendor ranking.
+* **Incorporate supplier capacity and contract data**
+  Analyze supplier capacity limits and contract terms to better support sourcing and allocation decisions.
 
-- **Implement a supplier tier dashboard**  
-  Automatically classify suppliers into **Strategic**, **Monitor**, and **At-Risk** segments to support faster, data-driven decisions.
+* **Track supplier performance over shorter time intervals**
+  Move from annual to monthly/quarterly analysis to detect performance issues earlier.
 
-- **Add SKU-level risk monitoring**  
-  Identify high-revenue or high-volume products with elevated reject rates to target quality improvement efforts more precisely.
+* **Include root cause data for defects and delays**
+  Integrate defect types or return reasons to identify specific drivers of quality issues.
 
-- **Track supplier performance during growth periods**  
-  Monitor SRI volatility when spend or PO volume increases to prevent performance degradation as the business scales.
+* **Expand cost analysis beyond PPV%**
+  Include total cost factors such as transportation, rework, and inventory holding to better evaluate supplier value.
+
+* **Develop a supplier scorecard for ongoing monitoring**
+  Standardize key metrics (cost, quality, delivery) into a consistent evaluation framework for continuous tracking.
+
