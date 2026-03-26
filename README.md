@@ -83,23 +83,18 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 <img width="1427" height="792" alt="image" src="https://github.com/user-attachments/assets/8f1da7df-032b-440f-9849-ce316242f351" />
 
 
-| # | Key Insight | Supporting Evidence | What This Means for the Business |
-|---|------------|--------------------|---------------------------------|
-| 1️⃣ | **Spend Is Concentrated Among a Small Group of Suppliers** | - **24** active suppliers<br>- A small subset accounts for the majority of spend<br>- Top supplier represents **$4M+** in procurement volume | The company is moderately dependent on a few key suppliers. Any performance decline or disruption would have a significant operational impact. |
-| 2️⃣ | **Quality Varies More Than Delivery** | - On-Time % near **100%** across suppliers<br>- Actual Lead Time stable at ~**9 days**<br>- Reject % varies widely (some **>5%**) | Delivery reliability is under control. Supplier differentiation comes mainly from quality performance, making defect reduction the top priority. |
-| 3️⃣ | **High Spend Does Not Always Mean High Performance** | - Some high-spend suppliers have reject rates above the portfolio average (**3.12%**)<br>- Mid-tier suppliers show lower reject rates with similar SRI | Spend allocation is not fully optimized for quality. Shifting volume toward lower-risk suppliers can reduce operational exposure. |
-| 4️⃣ | **PPV Differences Are Limited Across Suppliers** | - PPV% remains relatively consistent (~**5%**)<br>- No strong link between PPV and lower reject rate | Small price advantages do not justify higher quality risk. Focusing only on cost savings may increase long-term operational costs. |
-| 5️⃣ | **At-Risk Suppliers Can Be Identified Clearly** | - High-spend suppliers with high reject rates create elevated exposure<br>- Low-reject suppliers maintain stable SRI | Suppliers can be segmented into **Strategic**, **Monitor**, and **At-Risk** groups, enabling smarter vendor prioritization and risk management. |
+#### 📊 Key Insights - Supplier
 
-**🎯 Executive Takeaway**
+| Insight | Details |
+|--------|--------|
+| Spend is highly concentrated, increasing dependency risk | 80% of total spend is concentrated in just 24 suppliers, creating significant exposure if performance issues occur within this group |
+| High-spend suppliers are not consistently high-performing | Several high-spend suppliers show elevated reject rates (e.g., Superior Bicycles), indicating that critical suppliers are also key sources of quality risk |
+| Supplier risk is not evenly distributed, but concentrated in a few vendors | The supplier risk matrix shows that most suppliers perform within acceptable ranges, while a small group falls into high-risk zones (high spend + high reject) |
+| Some suppliers show worsening quality trends despite stable overall metrics | Reject YoY highlights specific suppliers with increasing defect rates, signaling early-stage performance deterioration that may not yet impact overall KPIs |
+| Top suppliers maintain high delivery performance but create over-dependence risk | While top suppliers show strong SRI and On-Time performance, reliance on a limited number of vendors reduces supply chain resilience |
+| Supplier performance varies within the same credit tier | Even within “Excellent Credit” suppliers, performance varies in reject rate and PPV, indicating that credit rating alone is not sufficient for supplier evaluation |
 
-The supplier base is operationally reliable, but quality variation creates uneven risk exposure.
-
-The main opportunity is to:
-
-- Reduce dependency on high-reject suppliers  
-- Increase allocation to consistent, low-risk vendors  
-- Use performance-based segmentation to guide sourcing decisions
+---
 
 #### Product 
 
