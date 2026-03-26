@@ -102,7 +102,6 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 
 ## 📊 Key Insights
 
-## 📊 Key Insights
 
 | Insight | Details |
 |--------|--------|
