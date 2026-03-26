@@ -7,7 +7,7 @@
 
 Supplier performance appears strong at a high level (97% SRI, ~100% On-Time), but deeper analysis reveals that risk is concentrated in a small group of high-spend suppliers and within the Components category, which accounts for the majority of procurement spend.
 
-As procurement volume scales (+161% YoY), cost efficiency is deteriorating (PPV% ↑) while quality issues remain present, indicating early signs of scaling inefficiency.
+As procurement volume scales (+161% YoY), cost (PPV%) is increasing while quality issues remain, indicating that growth is introducing inefficiencies rather than improving supplier performance.
 
 A targeted approach—shifting volume away from high-risk suppliers, auditing defect-driving vendors, and diversifying sourcing in critical categories—can significantly reduce operational risk and improve procurement efficiency without broad structural changes.
 
@@ -122,6 +122,8 @@ Evaluate supplier performance across delivery, quality, and cost to identify whi
 ---
 
 ## 🚀 Business Recommendations & Impacts
+
+The analysis shows that supplier risk is concentrated in a small number of high-impact suppliers and categories. The following actions focus on reducing risk at its source rather than applying broad changes.
 
 | Recommendation | Action | Business Impact |
 |---------------|--------|-----------------|
